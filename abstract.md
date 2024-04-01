@@ -1,0 +1,1 @@
+This is a clone of Netflix streaming app,where we can stream movies and tvshows.
